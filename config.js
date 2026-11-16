@@ -1,1 +1,3 @@
-const GROQ_KEY = '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';
+// Configuration template for HanyuStar
+// Provide your Groq API key (from https://console.groq.com)
+const GROQ_KEY = window.GROQ_API_KEY || '';
