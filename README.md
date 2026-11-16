@@ -1,4 +1,4 @@
-# 🌟 HanyuStar (汉语星) — Interactive Mandarin Learning Client
+# HanyuStar (汉语星) — Interactive Mandarin Learning Client
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PWA](https://img.shields.io/badge/PWA-Offline%20Capable-5a0fc8?logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Features
+## Features
 - **HSK 1-3 Curriculum:** Curated vocabulary with Pinyin, audio pronunciation, and English translations.
 - **AI Conversation Partner:** Real-time dialogue simulation with pronunciation guidance and grammar corrections.
 - **PWA Mobile-First Layout:** Responsive, app-like navigation with smooth transitions.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Quickstart
+## ️ Quickstart
 1. Clone the repository:
    ```bash
    git clone https://github.com/yasmenmad/HanyuStar.git
@@ -32,5 +32,5 @@
 
 ---
 
-## 👩‍💻 Author
+## ‍ Author
 **Yasmine Daoudi** — [GitHub Profile](https://github.com/yasmenmad)
